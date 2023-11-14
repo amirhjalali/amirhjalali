@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Deep Learning. 
 - 💞️ I’m looking to collaborate on using chat GPT3 to identify how we can inject sense back into the comments sections.
 - 📫 How to reach me amirhjalali@gmail.com
+- 📺 www.amirhjalali.com
+
 
 <!---
 amirhjalali/amirhjalali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
