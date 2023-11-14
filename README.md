@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep Learning. 
 - 💞️ I’m looking to collaborate on using chat GPT3 to identify how we can inject sense back into the comments sections.
 - 📫 How to reach me amirhjalali@gmail.com
-- 📺 www.amirhjalali.com
+- 📺 Access my thoughts www.amirhjalali.com
 
 
 <!---
