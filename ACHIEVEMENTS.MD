@@ -3,6 +3,18 @@
 ## Overview
 This document tracks progress toward earning all available GitHub achievement badges.
 
+## 🎯 Quick Status
+
+| Achievement | Status | Progress |
+|------------|--------|----------|
+| Quickdraw ⚡ | ✅ Completed | 1/1 |
+| YOLO 🎲 | ✅ Completed | 1/1 |
+| Pull Shark 🦈 | 🔄 In Progress | 3+ merged PRs |
+| Starstruck ⭐ | 🔄 In Progress | Check repos |
+| Pair Extraordinaire 👥 | ⏳ Pending | 0 coauthored |
+| Galaxy Brain 🧠 | ⏳ Pending | 0 accepted answers |
+| Public Sponsor 💰 | ⏳ Pending | Not sponsored |
+
 ---
 
 ## 🏆 Main Achievements
@@ -28,11 +40,11 @@ This document tracks progress toward earning all available GitHub achievement ba
 
 ### Pull Shark
 **Description:** Opened pull requests that have been merged
-**Status:** 🤖 Automatable
-**Current Progress:** Check GitHub profile
+**Status:** 🔄 In Progress
+**Current Progress:** 3+ merged PRs in this repo (PRs #1, #2, #3)
 **Requirements:**
-- [x] Default: 2 merged PRs *(Likely already achieved)*
-- [ ] Bronze: 16 merged PRs
+- [x] Default: 2 merged PRs ✅ **ACHIEVED**
+- [ ] Bronze: 16 merged PRs (3/16)
 - [ ] Silver: 128 merged PRs
 - [ ] Gold: 1,024 merged PRs
 
@@ -47,29 +59,31 @@ This document tracks progress toward earning all available GitHub achievement ba
 
 ### Quickdraw
 **Description:** Closed an issue or pull request within 5 minutes of opening
-**Status:** 🤖 Automatable (One-tier only)
-**Current Progress:** Not yet achieved
+**Status:** ✅ **COMPLETED**
+**Current Progress:** Achieved via PR #1
 **Requirements:**
-- [ ] Close an issue or PR within 5 minutes of opening
+- [x] Close an issue or PR within 5 minutes of opening
 
 **Tasks:**
 - [x] Create a PR in your repository (issues disabled on profile repo)
 - [x] Close it within 5 minutes
 
-**Note:** Issues are disabled on this profile repository, so use PRs instead.
+**Note:** Issues are disabled on this profile repository, so PRs were used instead. Achievement unlocked!
 
 ---
 
 ### YOLO
 **Description:** Merged a pull request without code review
-**Status:** 🤖 Automatable (One-tier only)
-**Current Progress:** Not yet achieved
+**Status:** ✅ **COMPLETED**
+**Current Progress:** Achieved via PR #1
 **Requirements:**
-- [ ] Merge a PR without review
+- [x] Merge a PR without review
 
 **Tasks:**
 - [x] Create a PR in your own repository
 - [x] Merge it immediately without requesting review
+
+**Note:** Achievement unlocked by merging PR without review!
 
 ---
 
