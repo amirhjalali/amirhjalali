@@ -230,4 +230,28 @@ Co-authored-by: Name <email@example.com>
 
 ---
 
+## 📚 Helpful Resources
+
+### Official Documentation
+- [GitHub Achievements Official Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile)
+
+### Community Guides
+- [Complete GitHub Achievements Guide](https://github.com/drknzz/GitHub-Achievements)
+- [GitHub Achievement Badges Guide](https://github.com/Schweinepriester/github-profile-achievements)
+- [Interactive Achievement Tracker](https://githubachievements.com/)
+
+### Open Source Projects to Contribute To
+- Search for "good first issue" label on GitHub
+- Explore projects in your tech stack (TypeScript, PHP, Python)
+- Check out [First Timers Only](https://www.firsttimersonly.com/)
+- Browse [Up For Grabs](https://up-for-grabs.net/)
+
+### GitHub Discussions to Participate In
+- [GitHub Community Discussions](https://github.com/orgs/community/discussions)
+- Repository discussions in your areas of expertise
+- AI/ML project discussions
+- Web development framework discussions
+
+---
+
 *Last Updated: 2025-11-11*
