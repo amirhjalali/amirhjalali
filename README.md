@@ -1,5 +1,7 @@
 # Hi, I'm Amir Jalali 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=amirhjalali&color=blueviolet&style=flat-square)
+
 ## 👨‍💻 About Me
 - 👀 I'm interested in data, AI, improving public discourse and blockchain technologies. I also like animals.
 - 🌱 I'm currently working on Practical AI Workflows
