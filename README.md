@@ -37,6 +37,10 @@ Working across multiple languages and frameworks:
 ## 🤝 Let's Connect
 I'm always interested in collaborating on projects that involve AI, improving online discourse, or building tools that make a positive impact. Feel free to reach out!
 
+[![Email](https://img.shields.io/badge/Email-amirhjalali%40gmail.com-red?style=flat-square&logo=gmail)](mailto:amirhjalali@gmail.com)
+[![Website](https://img.shields.io/badge/Website-amirhjalali.com-blue?style=flat-square&logo=google-chrome)](https://www.amirhjalali.com)
+[![GitHub](https://img.shields.io/badge/GitHub-amirhjalali-black?style=flat-square&logo=github)](https://github.com/amirhjalali)
+
 ---
 
 ## 📈 GitHub Stats
