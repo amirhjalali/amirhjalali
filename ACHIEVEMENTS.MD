@@ -108,6 +108,19 @@ This document tracks progress toward earning all available GitHub achievement ba
 Co-authored-by: Name <email@example.com>
 ```
 
+**How to Earn This Achievement:**
+1. When pair programming, add co-author to commit messages
+2. Give credit to code reviewers who made significant suggestions
+3. Collaborate on open source projects with other developers
+4. Work on team projects and acknowledge contributions
+5. Use tools like VS Code Live Share for real-time collaboration
+
+**Best Practices:**
+- Always ask permission before adding someone as a co-author
+- Be generous with credit - it builds community
+- Document collaboration in commit messages
+- Use co-authoring for significant contributions, not minor typos
+
 ---
 
 ### Galaxy Brain
