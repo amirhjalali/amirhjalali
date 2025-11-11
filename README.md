@@ -39,6 +39,14 @@ I'm always interested in collaborating on projects that involve AI, improving on
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=default&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhjalali&layout=compact&theme=default)
+
+---
+
 📊 **[View my GitHub Achievement Progress](ACHIEVEMENTS.MD)**
 
 <!---
