@@ -139,6 +139,28 @@ Co-authored-by: Name <email@example.com>
 - [ ] Provide detailed, helpful answers that solve problems
 - [ ] Monitor discussions in TypeScript, PHP, Python, AI/ML repositories
 
+**How to Earn This Achievement:**
+1. Find GitHub Discussions in repositories you're familiar with
+2. Look for unanswered questions in your expertise areas
+3. Provide comprehensive, well-explained answers
+4. Include code examples, links to documentation, and clear explanations
+5. Follow up on questions to ensure the solution works
+6. Wait for the question author to mark your answer as accepted
+
+**Tips for Success:**
+- Focus on quality over quantity - one great answer is better than many mediocre ones
+- Be respectful and encouraging, especially to beginners
+- Test your solutions before posting
+- Use formatting (code blocks, headings) to make answers readable
+- Link to official documentation when relevant
+- Share practical examples from your own experience
+
+**Great Places to Start:**
+- GitHub Community Discussions (general questions)
+- Popular framework repositories (Vue.js, FastAPI, etc.)
+- AI/ML project discussions
+- TypeScript, PHP, and Python ecosystem projects
+
 ---
 
 ### Public Sponsor
