@@ -53,8 +53,10 @@ This document tracks progress toward earning all available GitHub achievement ba
 - [ ] Close an issue or PR within 5 minutes of opening
 
 **Tasks:**
-- [x] Create an issue in your repository
+- [x] Create a PR in your repository (issues disabled on profile repo)
 - [x] Close it within 5 minutes
+
+**Note:** Issues are disabled on this profile repository, so use PRs instead.
 
 ---
 
