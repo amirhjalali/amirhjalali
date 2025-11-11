@@ -10,6 +10,12 @@
 - 📺 Access my thoughts: www.amirhjalali.com
 - 📍 Based in New York
 
+### 🎯 Current Focus
+- Building AI-powered tools for improving online discourse
+- Developing the Gabooja creator platform ecosystem
+- Exploring practical applications of Large Language Models
+- Contributing to open source projects in TypeScript, Python, and PHP
+
 ## 🔨 Current Projects & Recent Work
 
 ### 🚀 Gabooja Platform
