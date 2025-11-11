@@ -9,7 +9,7 @@ This document tracks progress toward earning all available GitHub achievement ba
 |------------|--------|----------|
 | Quickdraw ⚡ | ✅ Completed | 1/1 |
 | YOLO 🎲 | ✅ Completed | 1/1 |
-| Pull Shark 🦈 | 🔄 In Progress | 3+ merged PRs |
+| Pull Shark 🦈 | 🔄 In Progress | 15/16 for Bronze 🎯 |
 | Starstruck ⭐ | 🔄 In Progress | Check repos |
 | Pair Extraordinaire 👥 | ⏳ Pending | 0 coauthored |
 | Galaxy Brain 🧠 | ⏳ Pending | 0 accepted answers |
@@ -65,11 +65,11 @@ This document tracks progress toward earning all available GitHub achievement ba
 
 ### Pull Shark
 **Description:** Opened pull requests that have been merged
-**Status:** 🔄 In Progress
-**Current Progress:** 3+ merged PRs in this repo (PRs #1, #2, #3)
+**Status:** 🔄 In Progress - Almost Bronze! 🎯
+**Current Progress:** 15 merged PRs in this repo (PRs #1-15)
 **Requirements:**
 - [x] Default: 2 merged PRs ✅ **ACHIEVED**
-- [ ] Bronze: 16 merged PRs (3/16)
+- [ ] Bronze: 16 merged PRs (15/16 - One more to go!)
 - [ ] Silver: 128 merged PRs
 - [ ] Gold: 1,024 merged PRs
 
