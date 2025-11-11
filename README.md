@@ -37,6 +37,10 @@ Working across multiple languages and frameworks:
 ## 🤝 Let's Connect
 I'm always interested in collaborating on projects that involve AI, improving online discourse, or building tools that make a positive impact. Feel free to reach out!
 
+---
+
+📊 **[View my GitHub Achievement Progress](ACHIEVEMENTS.MD)**
+
 <!---
 amirhjalali/amirhjalali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
