@@ -19,9 +19,9 @@ Building a comprehensive creator platform with multiple interconnected component
 - **[Creator Launchpad](https://github.com/amirhjalali/gaboojacreatorlaunchpad)** - Tool to identify and recommend strong candidates for launching drops on Gabooja
 
 ### 💬 Discourse & Debate Tools
-Working on AI-powered tools to improve online discourse:
-- **[Argumend](https://github.com/amirhjalali/Argumend)** - Utilizes LLMs to provide context about varying perspectives on issues
-- **[DebateMePro](https://github.com/amirhjalali/DebateMePro)** - Scoring debates objectively with a systematic methodology
+Working on AI-powered tools to improve online discourse and critical thinking:
+- **[Argumend](https://github.com/amirhjalali/Argumend)** - AI-powered tool that utilizes LLMs to provide balanced context and multiple perspectives on complex issues, helping users understand different viewpoints
+- **[DebateMePro](https://github.com/amirhjalali/DebateMePro)** - Objective debate scoring platform using systematic methodology to evaluate arguments, logic, and rhetoric
 
 ### 🌐 Personal & Community Websites
 - **[amirhjalali.com](https://github.com/amirhjalali/amirhjalali.com)** - Personal website and blog
