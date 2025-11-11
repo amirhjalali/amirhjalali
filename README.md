@@ -28,11 +28,6 @@ Working on AI-powered tools to improve online discourse:
 - **[campalborz.org](https://github.com/amirhjalali/campalborz.org)** - Community organization website
 - **[drjalali.com](https://github.com/amirhjalali/drjalali.com)** - Professional portfolio site
 
-### 🔧 Other Projects
-- **[TipzPOC](https://github.com/amirhjalali/TipzPOC)** - Proof of concept for tipping functionality
-- **[CampMemberTracker](https://github.com/amirhjalali/CampMemberTracker)** - Member management system
-- **[TrumpTaxTracker](https://github.com/amirhjalali/TrumpTaxTracker)** - Political transparency tool
-
 ## Tech Stack
 Working across multiple languages and frameworks:
 - **Frontend:** TypeScript, HTML, Vue.js
