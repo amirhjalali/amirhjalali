@@ -1,6 +1,6 @@
 # Hi, I'm Amir Jalali 👋
 
-## About Me
+## 👨‍💻 About Me
 - 👀 I'm interested in data, AI, improving public discourse and blockchain technologies. I also like animals.
 - 🌱 I'm currently working on Practical AI Workflows
 - 💞️ I'm looking to collaborate on using LLMs to identify how we can inject sanity back into the comments sections
@@ -8,7 +8,7 @@
 - 📺 Access my thoughts: www.amirhjalali.com
 - 📍 Based in New York
 
-## Current Projects & Recent Work
+## 🔨 Current Projects & Recent Work
 
 ### 🚀 Gabooja Platform
 Building a comprehensive creator platform with multiple interconnected components:
@@ -28,13 +28,13 @@ Working on AI-powered tools to improve online discourse:
 - **[campalborz.org](https://github.com/amirhjalali/campalborz.org)** - Community organization website
 - **[drjalali.com](https://github.com/amirhjalali/drjalali.com)** - Professional portfolio site
 
-## Tech Stack
+## 🛠️ Tech Stack
 Working across multiple languages and frameworks:
 - **Frontend:** TypeScript, HTML, Vue.js
 - **Backend:** PHP, Python (FastAPI), Node.js, JavaScript
 - **Focus Areas:** AI/LLMs, Data Analysis, Full-stack Development
 
-## Let's Connect
+## 🤝 Let's Connect
 I'm always interested in collaborating on projects that involve AI, improving online discourse, or building tools that make a positive impact. Feel free to reach out!
 
 <!---
