@@ -14,6 +14,8 @@ This document tracks progress toward earning all available GitHub achievement ba
 | Pair Extraordinaire 👥 | ⏳ Pending | 0 coauthored |
 | Galaxy Brain 🧠 | ⏳ Pending | 0 accepted answers |
 | Public Sponsor 💰 | ⏳ Pending | Not sponsored |
+| Heart On Your Sleeve ❤️ | 🔒 In Testing | Not released |
+| Open Sourcerer 🌟 | 🔒 In Testing | Not released |
 
 ---
 
@@ -199,6 +201,59 @@ Co-authored-by: Name <email@example.com>
 - [ ] Identify open source projects you rely on
 - [ ] Choose a maintainer or project to sponsor
 - [ ] Set up GitHub Sponsors payment
+
+---
+
+## 🔮 Secret/Upcoming Achievements (In Testing)
+
+### Heart On Your Sleeve
+**Description:** React with ❤️ emoji to content on GitHub
+**Status:** 🔒 Not Yet Publicly Released
+**Current Progress:** In testing phase
+**Requirements:**
+- React to issues, comments, discussions with ❤️ emoji
+- Tiers may depend on number of heart reactions given
+
+**How to Prepare:**
+1. Start using ❤️ reactions on GitHub content you appreciate
+2. React to helpful issues, comments, and discussions
+3. Show appreciation to maintainers and contributors
+4. Be genuine - only react to content you truly appreciate
+
+**Note:** This achievement is currently only available to GitHub staff and is in testing. Requirements may change before public release.
+
+---
+
+### Open Sourcerer
+**Description:** Contributed to multiple public repositories
+**Status:** 🔒 Not Yet Publicly Released
+**Current Progress:** In testing phase
+**Requirements:**
+- Have PRs merged in multiple different public repositories
+- Not limited to your own repositories - must contribute to others' projects
+
+**How to Prepare:**
+1. Find open source projects in your expertise areas
+2. Look for "good first issue" labels
+3. Contribute bug fixes, documentation improvements, or features
+4. Get your PRs reviewed and merged by maintainers
+5. Contribute to diverse projects, not just one
+
+**Great Places to Start Contributing:**
+- [Good First Issue](https://goodfirstissue.dev/)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Up For Grabs](https://up-for-grabs.net/)
+- [CodeTriage](https://www.codetriage.com/)
+- Projects you actually use and know well
+
+**Tips for Successful Open Source Contributions:**
+- Read CONTRIBUTING.md before submitting
+- Start small - fix typos, improve docs, add tests
+- Follow the project's code style and conventions
+- Be patient and respectful with maintainers
+- Don't just contribute for the badge - add real value
+
+**Note:** This achievement is currently only available to GitHub staff and is in testing. Requirements may change before public release.
 
 ---
 
