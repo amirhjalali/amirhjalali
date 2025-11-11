@@ -36,6 +36,31 @@ This document tracks progress toward earning all available GitHub achievement ba
 - [ ] Build genuinely useful tools that solve real problems
 - [ ] Engage with communities relevant to your projects
 
+**How to Earn This Achievement:**
+1. **Build Quality Projects**: Focus on solving real problems people have
+2. **Excellent Documentation**: Write clear README files with examples, installation instructions, and screenshots
+3. **Promotion Strategy**: Share on relevant platforms (Reddit, Hacker News, Twitter/X, Product Hunt)
+4. **Open Source Best Practices**: Add LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md
+5. **Engage with Users**: Respond to issues, accept PRs, build a community
+6. **SEO Optimization**: Use relevant keywords in repository description and topics
+
+**Tips for Getting Stars:**
+- **README is King**: First impressions matter - make your README stunning
+- **Show, Don't Tell**: Include GIFs, screenshots, or video demos
+- **Easy to Try**: Provide live demos, codesandbox examples, or quick-start guides
+- **Solve Real Problems**: Tools that save time or solve pain points get stars
+- **Timing Matters**: Share when your target audience is most active
+- **Cross-Promote**: Mention your project in relevant discussions (authentically)
+- **Keep Active**: Regular updates and maintenance signal the project is alive
+
+**Best Platforms for Promotion:**
+- Reddit: r/programming, r/webdev, r/python, r/javascript (check subreddit rules first)
+- Hacker News: Show HN posts for new projects
+- Twitter/X: Use relevant hashtags (#100DaysOfCode, #DevCommunity)
+- Dev.to: Write articles about your project
+- Product Hunt: For user-facing tools
+- GitHub Trending: Gets there organically with initial momentum
+
 ---
 
 ### Pull Shark
