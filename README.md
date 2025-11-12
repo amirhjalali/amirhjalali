@@ -1,6 +1,8 @@
 # Hi, I'm Amir Jalali 👋
 
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=amirhjalali&color=blueviolet&style=flat-square)
+
+## 👨‍💻 About Me
 - 👀 I'm interested in data, AI, improving public discourse and blockchain technologies. I also like animals.
 - 🌱 I'm currently working on Practical AI Workflows
 - 💞️ I'm looking to collaborate on using LLMs to identify how we can inject sanity back into the comments sections
@@ -8,7 +10,13 @@
 - 📺 Access my thoughts: www.amirhjalali.com
 - 📍 Based in New York
 
-## Current Projects & Recent Work
+### 🎯 Current Focus
+- Building AI-powered tools for improving online discourse
+- Developing the Gabooja creator platform ecosystem
+- Exploring practical applications of Large Language Models
+- Contributing to open source projects in TypeScript, Python, and PHP
+
+## 🔨 Current Projects & Recent Work
 
 ### 🚀 Gabooja Platform
 Building a comprehensive creator platform with multiple interconnected components:
@@ -19,28 +27,14 @@ Building a comprehensive creator platform with multiple interconnected component
 - **[Creator Launchpad](https://github.com/amirhjalali/gaboojacreatorlaunchpad)** - Tool to identify and recommend strong candidates for launching drops on Gabooja
 
 ### 💬 Discourse & Debate Tools
-Working on AI-powered tools to improve online discourse:
-- **[Argumend](https://github.com/amirhjalali/Argumend)** - Utilizes LLMs to provide context about varying perspectives on issues
-- **[DebateMePro](https://github.com/amirhjalali/DebateMePro)** - Scoring debates objectively with a systematic methodology
+Working on AI-powered tools to improve online discourse and critical thinking:
+- **[Argumend](https://github.com/amirhjalali/Argumend)** - AI-powered tool that utilizes LLMs to provide balanced context and multiple perspectives on complex issues, helping users understand different viewpoints
+- **[DebateMePro](https://github.com/amirhjalali/DebateMePro)** - Objective debate scoring platform using systematic methodology to evaluate arguments, logic, and rhetoric
 
 ### 🌐 Personal & Community Websites
 - **[amirhjalali.com](https://github.com/amirhjalali/amirhjalali.com)** - Personal website and blog
 - **[campalborz.org](https://github.com/amirhjalali/campalborz.org)** - Community organization website
 - **[drjalali.com](https://github.com/amirhjalali/drjalali.com)** - Professional portfolio site
-
-### 🔧 Other Projects
-- **[TipzPOC](https://github.com/amirhjalali/TipzPOC)** - Proof of concept for tipping functionality
-- **[CampMemberTracker](https://github.com/amirhjalali/CampMemberTracker)** - Member management system
-- **[TrumpTaxTracker](https://github.com/amirhjalali/TrumpTaxTracker)** - Political transparency tool
-
-## Tech Stack
-Working across multiple languages and frameworks:
-- **Frontend:** TypeScript, HTML, Vue.js
-- **Backend:** PHP, Python (FastAPI), Node.js, JavaScript
-- **Focus Areas:** AI/LLMs, Data Analysis, Full-stack Development
-
-## Let's Connect
-I'm always interested in collaborating on projects that involve AI, improving online discourse, or building tools that make a positive impact. Feel free to reach out!
 
 <!---
 amirhjalali/amirhjalali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
