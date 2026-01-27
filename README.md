@@ -1,102 +1,145 @@
-# Amir Jalali
+<div align="center">
 
-**Building AI tools that improve how people think and communicate.**
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Amir+Jalali;Building+AI+tools+that+improve+how+people+think." alt="Typing SVG" />
+
+<br/>
 
 `14+ years` in data engineering, business intelligence, and AI strategy
-Co-Founder & CPO at [Gabooja](https://gabooja.com) · Based in New York
 
-[![Website](https://img.shields.io/badge/Website-amirhjalali.com-blue?style=flat-square)](https://amirhjalali.com)
-[![Email](https://img.shields.io/badge/Email-amirhjalali%40gmail.com-red?style=flat-square)](mailto:amirhjalali@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amirhjalali-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/amirhjalali)
+**Co-Founder & CPO** at [Gabooja](https://gabooja.com) · New York
+
+<br/>
+
+[![Website](https://img.shields.io/badge/amirhjalali.com-000?style=for-the-badge&logo=About.me&logoColor=white)](https://amirhjalali.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhjalali)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhjalali@gmail.com)
+
+</div>
 
 ---
 
-## ⚡ Featured Projects
+## ⚡ Featured Work
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🧠 Argumend
+**AI for balanced perspectives**
 
-**AI-powered tool for balanced perspectives on complex issues.**
+LLM-powered analysis of contentious topics. Surfaces multiple viewpoints so users understand the full landscape before forming opinions.
 
-Online discourse suffers from echo chambers and one-sided arguments. Argumend uses large language models to analyze contentious topics and surface multiple viewpoints — helping users understand the full landscape of an issue before forming opinions.
+> *Not telling people what to think — ensuring they've considered what others think.*
 
-> The goal isn't to tell people what to think, but to ensure they've considered what others think.
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amirhjalali/Argumend)
 
-[![View Repo](https://img.shields.io/badge/→_View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/amirhjalali/Argumend)
-
----
+</td>
+<td width="50%">
 
 ### ⚖️ DebateMePro
+**Objective debate scoring**
 
-**Objective debate scoring using systematic evaluation methodology.**
+Systematic evaluation of arguments on logic, evidence, and rhetoric. Like instant replay review — but for debates.
 
-Most online debates devolve into who can shout loudest. DebateMePro brings structure and objectivity — evaluating arguments on logic, evidence, rhetoric, and intellectual honesty. Think of it as instant replay review for debates.
+> *Making the quality of reasoning visible and measurable.*
 
-> Built to encourage better argumentation by making the quality of reasoning visible and measurable.
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amirhjalali/DebateMePro)
 
-[![View Repo](https://img.shields.io/badge/→_View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/amirhjalali/DebateMePro)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Gabooja — Creator Platform Ecosystem
+## 🚀 Gabooja Ecosystem
 
-As Co-Founder & Chief Product Officer, I lead product strategy and technical architecture for Gabooja's creator economy platform.
+<div align="center">
 
-| Component | Stack | Description |
-|-----------|-------|-------------|
-| [Creator Studio](https://github.com/Gabooja/creator-studio) | `TypeScript` | Workspace for content creators to manage their presence |
-| [Gabooja Client](https://github.com/Gabooja/gabooja-client) | `React` | Frontend application powering the user experience |
-| [Gabooja API](https://github.com/Gabooja/gabooja-api) | `PHP` | Secure, scalable API infrastructure |
-| [Gabooja Website](https://github.com/Gabooja/gabooja-website) | `Web` | Platform marketing and landing pages |
-| [Creator Launchpad](https://github.com/amirhjalali/gaboojacreatorlaunchpad) | `Python` | Analytics identifying high-potential creators for launches |
+*Leading product strategy and technical architecture as Co-Founder & CPO*
+
+</div>
+
+| | Component | Description |
+|:---:|-----------|-------------|
+| 🎨 | [Creator Studio](https://github.com/Gabooja/creator-studio) | TypeScript workspace for content creators |
+| 💻 | [Client App](https://github.com/Gabooja/gabooja-client) | React frontend powering the UX |
+| ⚙️ | [API](https://github.com/Gabooja/gabooja-api) | PHP backend — secure, scalable infrastructure |
+| 🌐 | [Website](https://github.com/Gabooja/gabooja-website) | Platform marketing & landing pages |
+| 📊 | [Creator Launchpad](https://github.com/amirhjalali/gaboojacreatorlaunchpad) | Analytics for identifying high-potential creators |
 
 ---
 
 ## 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<div align="center">
 
-**Domains:** Large Language Models · Data Engineering · Business Intelligence · API Architecture
-**Focus:** AI Strategy · Prompt Engineering · Generative AI Applications
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+**Domains:** `LLMs` · `Data Engineering` · `Business Intelligence` · `API Architecture`
+
+**Focus:** `AI Strategy` · `Prompt Engineering` · `Generative AI Applications`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amirhjalali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amirhjalali&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
+
+</div>
 
 ---
 
-## 🎯 Current Interests
+## 🎯 What I'm Exploring
 
-| Area | Question I'm Exploring |
-|------|----------------------|
-| **Online Discourse** | Can AI help people argue better, not just louder? |
-| **Creator Economy** | What infrastructure do creators actually need to succeed? |
-| **Practical AI** | How do we move beyond chatbots to embedded intelligence? |
+| Domain | Question |
+|:------:|----------|
+| 💬 | Can AI help people argue *better*, not just louder? |
+| 🎨 | What infrastructure do creators actually need? |
+| 🤖 | How do we move beyond chatbots to embedded intelligence? |
 
 ---
 
 ## 🌐 Other Projects
 
-| Project | Description |
-|---------|-------------|
-| [amirhjalali.com](https://github.com/amirhjalali/amirhjalali.com) | Personal site and writing |
-| [campalborz.org](https://github.com/amirhjalali/campalborz.org) | Community organization website |
-| [drjalali.com](https://github.com/amirhjalali/drjalali.com) | Professional portfolio |
+<div align="center">
+
+[![amirhjalali.com](https://img.shields.io/badge/amirhjalali.com-Personal_Site-blue?style=flat-square)](https://github.com/amirhjalali/amirhjalali.com)
+[![campalborz.org](https://img.shields.io/badge/campalborz.org-Community-green?style=flat-square)](https://github.com/amirhjalali/campalborz.org)
+[![drjalali.com](https://img.shields.io/badge/drjalali.com-Portfolio-purple?style=flat-square)](https://github.com/amirhjalali/drjalali.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirhjalali&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Always interested in conversations about AI strategy and implementation.</i>
-</p>
+### 💭
+
+*"The goal of AI shouldn't be to replace human thinking — it should be to make human thinking better."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=amirhjalali&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+<br/><br/>
+
+**Open to conversations about AI strategy and implementation.**
+
+</div>
