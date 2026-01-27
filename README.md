@@ -32,7 +32,7 @@ LLM-powered analysis of contentious topics. Surfaces multiple viewpoints so user
 
 > *Not telling people what to think — ensuring they've considered what others think.*
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amirhjalali/Argumend)
+[![Visit](https://img.shields.io/badge/Visit_Argumend-181717?style=for-the-badge&logo=globe&logoColor=white)](https://www.argumend.org)
 
 </td>
 <td width="50%">
