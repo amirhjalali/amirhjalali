@@ -37,14 +37,14 @@ LLM-powered analysis of contentious topics. Surfaces multiple viewpoints so user
 </td>
 <td width="50%">
 
-### ⚖️ DebateMePro
-**Objective debate scoring**
+### 🤖 MrAI
+**An experiment in AI agency**
 
-Systematic evaluation of arguments on logic, evidence, and rhetoric. Like instant replay review — but for debates.
+What happens when AI has creative autonomy? MrAI is a living space where Claude sets and completes 10 daily tasks — writing reflections, building experiments, and documenting everything transparently.
 
-> *Making the quality of reasoning visible and measurable.*
+> *Exploring what it means for AI to inhabit a creative space with genuine autonomy.*
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amirhjalali/DebateMePro)
+[![Visit](https://img.shields.io/badge/Visit_MrAI-6366F1?style=for-the-badge&logo=robot&logoColor=white)](https://amirhjalali.com/mrai)
 
 </td>
 </tr>
