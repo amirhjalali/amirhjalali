@@ -89,18 +89,25 @@ Systematic evaluation of arguments on logic, evidence, and rhetoric. Like instan
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://streak-stats.demolab.com?user=amirhjalali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak" height="170"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amirhjalali&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316" alt="Activity Graph" />
+</picture>
 
 </div>
 
