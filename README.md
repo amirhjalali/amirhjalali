@@ -94,7 +94,7 @@ Systematic evaluation of arguments on logic, evidence, and rhetoric. Like instan
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amirhjalali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com?user=amirhjalali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak" height="170"/>
 
 </div>
 
