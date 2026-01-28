@@ -1,54 +1,144 @@
 <div align="center">
 
-# Amir Jalali
+<br/>
 
-**Co-Founder & CPO** at [Gabooja](https://gabooja.com) · New York
-
-14+ years in data engineering, business intelligence, and AI strategy
+```
+╭──────────────────────────────────────────────────────────────────╮
+│                                                                  │
+│                        AMIR JALALI                               │
+│                                                                  │
+│          Building AI tools that improve how people think         │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+```
 
 <br/>
 
-[amirhjalali.com](https://amirhjalali.com) · [LinkedIn](https://linkedin.com/in/amirhjalali) · [Email](mailto:amirhjalali@gmail.com)
+<sup>Co-Founder & CPO at <a href="https://gabooja.com"><strong>Gabooja</strong></a> · New York · 14+ years in AI, data & product</sup>
+
+<br/><br/>
+
+[`◈ SITE`](https://amirhjalali.com)&nbsp;&nbsp;&nbsp;&nbsp;[`◈ LINKEDIN`](https://linkedin.com/in/amirhjalali)&nbsp;&nbsp;&nbsp;&nbsp;[`◈ EMAIL`](mailto:amirhjalali@gmail.com)
+
+<br/>
 
 </div>
 
----
+<br/>
 
-### Featured Work
+## ▬▬ι═══════ﺤ
 
-**[Argumend](https://www.argumend.org)** — AI for balanced perspectives. LLM-powered analysis of contentious topics that surfaces multiple viewpoints so users understand the full landscape before forming opinions.
+<br/>
 
-**[MrAI](https://amirhjalali.com/mrai)** — An experiment in AI agency. A living space where Claude sets and completes 10 daily tasks—writing reflections, building experiments, documenting everything transparently.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ARGUMEND
 
-### Gabooja
+<sup><a href="https://www.argumend.org">argumend.org</a></sup>
 
-Building the creator economy infrastructure as Co-Founder & CPO.
+AI for balanced perspectives. LLM-powered analysis that surfaces multiple viewpoints on contentious topics.
 
-- [Creator Studio](https://github.com/Gabooja/creator-studio) — TypeScript workspace for content creators
-- [Client App](https://github.com/Gabooja/gabooja-client) — React frontend
-- [API](https://github.com/Gabooja/gabooja-api) — PHP backend
-- [Creator Launchpad](https://github.com/amirhjalali/gaboojacreatorlaunchpad) — Analytics for identifying high-potential creators
+> *Not telling people what to think—*
+> *ensuring they've considered what others think.*
 
----
+</td>
+<td width="50%" valign="top">
 
-### Stack
+### MRAI
 
-TypeScript · Python · PHP · React · Node.js · OpenAI
+<sup><a href="https://amirhjalali.com/mrai">amirhjalali.com/mrai</a></sup>
 
-LLMs · Data Engineering · Business Intelligence · API Architecture
+An experiment in AI agency. Claude sets and completes 10 daily tasks autonomously—writing, building, reflecting.
 
----
+> *What happens when AI has*
+> *genuine creative autonomy?*
 
-### Other Projects
+</td>
+</tr>
+</table>
 
-[amirhjalali.com](https://github.com/amirhjalali/amirhjalali.com) · [campalborz.org](https://github.com/amirhjalali/campalborz.org) · [drjalali.com](https://github.com/amirhjalali/drjalali.com)
+<br/>
 
----
+## ▬▬ι═══════ﺤ
+
+<br/>
+
+### GABOOJA ECOSYSTEM
+
+<sup>Creator economy infrastructure · Leading product strategy & technical architecture</sup>
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   CREATOR STUDIO ········· TypeScript workspace for creators   │
+│   CLIENT APP ············· React frontend                      │
+│   API ···················· PHP backend infrastructure          │
+│   CREATOR LAUNCHPAD ······ Analytics & discovery engine        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<sup>
+<a href="https://github.com/Gabooja/creator-studio">creator-studio</a> ·
+<a href="https://github.com/Gabooja/gabooja-client">client</a> ·
+<a href="https://github.com/Gabooja/gabooja-api">api</a> ·
+<a href="https://github.com/amirhjalali/gaboojacreatorlaunchpad">launchpad</a>
+</sup>
+
+<br/><br/>
+
+## ▬▬ι═══════ﺤ
+
+<br/>
 
 <div align="center">
 
-*"The goal of AI shouldn't be to replace human thinking—it should be to make human thinking better."*
+```
+                    ┌─────────────────────────────────────┐
+                    │                                     │
+                    │   TypeScript    Python    PHP       │
+                    │   React         Node.js   OpenAI    │
+                    │                                     │
+                    │   ─────────────────────────────     │
+                    │                                     │
+                    │   LLMs · Data Engineering · BI      │
+                    │   API Architecture · AI Strategy    │
+                    │                                     │
+                    └─────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+## ▬▬ι═══════ﺤ
+
+<br/>
+
+<div align="center">
+
+<sup>OTHER PROJECTS</sup>
+
+<br/><br/>
+
+[`amirhjalali.com`](https://github.com/amirhjalali/amirhjalali.com)&nbsp;&nbsp;·&nbsp;&nbsp;[`campalborz.org`](https://github.com/amirhjalali/campalborz.org)&nbsp;&nbsp;·&nbsp;&nbsp;[`drjalali.com`](https://github.com/amirhjalali/drjalali.com)
+
+<br/><br/>
+
+───────
+
+<br/>
+
+*The goal of AI shouldn't be to replace human thinking*
+
+*It should be to make human thinking better.*
+
+<br/><br/>
+
+<sup>◈</sup>
 
 </div>
