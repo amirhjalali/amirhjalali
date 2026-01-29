@@ -89,30 +89,6 @@ What happens when AI has creative autonomy? MrAI is a living space where Claude 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=minimal&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316" alt="Activity Graph" />
-</picture>
-
-</div>
-
----
-
 ## 🎯 What I'm Exploring
 
 | Domain | Question |
