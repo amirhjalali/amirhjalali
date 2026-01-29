@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=36&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Amir+Jalali;Building+AI+tools+that+improve+how+people+think." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Amir+Jalali;Building+AI+tools+that+improve+how+people+think." alt="Typing SVG" />
 
 <br/>
 
@@ -11,9 +11,9 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/amirhjalali.com-0d1117?style=for-the-badge&logo=safari&logoColor=6366F1)](https://amirhjalali.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6366F1)](https://linkedin.com/in/amirhjalali)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6366F1)](mailto:amirhjalali@gmail.com)
+[![Website](https://img.shields.io/badge/amirhjalali.com-000?style=for-the-badge&logo=About.me&logoColor=white)](https://amirhjalali.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhjalali)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhjalali@gmail.com)
 
 </div>
 
@@ -32,7 +32,7 @@ LLM-powered analysis of contentious topics. Surfaces multiple viewpoints so user
 
 > *Not telling people what to think — ensuring they've considered what others think.*
 
-[![Visit](https://img.shields.io/badge/Visit_Argumend-6366F1?style=for-the-badge&logo=globe&logoColor=white)](https://www.argumend.org)
+[![Visit](https://img.shields.io/badge/Visit_Argumend-181717?style=for-the-badge&logo=globe&logoColor=white)](https://www.argumend.org)
 
 </td>
 <td width="50%">
@@ -74,18 +74,42 @@ What happens when AI has creative autonomy? MrAI is a living space where Claude 
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 **Domains:** `LLMs` · `Data Engineering` · `Business Intelligence` · `API Architecture`
 
 **Focus:** `AI Strategy` · `Prompt Engineering` · `Generative AI Applications`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhjalali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhjalali&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316" alt="Activity Graph" />
+</picture>
+
+</div>
 
 ---
 
@@ -103,9 +127,9 @@ What happens when AI has creative autonomy? MrAI is a living space where Claude 
 
 <div align="center">
 
-[![amirhjalali.com](https://img.shields.io/badge/amirhjalali.com-Personal_Site-6366F1?style=flat-square)](https://github.com/amirhjalali/amirhjalali.com)
-[![campalborz.org](https://img.shields.io/badge/campalborz.org-Community-6366F1?style=flat-square)](https://github.com/amirhjalali/campalborz.org)
-[![drjalali.com](https://img.shields.io/badge/drjalali.com-Portfolio-6366F1?style=flat-square)](https://github.com/amirhjalali/drjalali.com)
+[![amirhjalali.com](https://img.shields.io/badge/amirhjalali.com-Personal_Site-blue?style=flat-square)](https://github.com/amirhjalali/amirhjalali.com)
+[![campalborz.org](https://img.shields.io/badge/campalborz.org-Community-green?style=flat-square)](https://github.com/amirhjalali/campalborz.org)
+[![drjalali.com](https://img.shields.io/badge/drjalali.com-Portfolio-purple?style=flat-square)](https://github.com/amirhjalali/drjalali.com)
 
 </div>
 
