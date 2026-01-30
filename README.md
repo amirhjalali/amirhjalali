@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Amir+Jalali;Building+AI+tools+that+improve+how+people+think." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Amir+Jalali;Building+AI+tools+that+improve+how+people+think." alt="Typing SVG" />
 
 <br/>
 
@@ -11,9 +11,9 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/amirhjalali.com-4B5563?style=for-the-badge&logo=About.me&logoColor=white)](https://amirhjalali.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhjalali)
-[![Email](https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhjalali@gmail.com)
+[![Website](https://img.shields.io/badge/amirhjalali.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amirhjalali.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhjalali)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhjalali@gmail.com)
 
 </div>
 
@@ -44,7 +44,7 @@ What happens when AI has creative autonomy? MrAI is a living space where Claude 
 
 > *Exploring what it means for AI to inhabit a creative space with genuine autonomy.*
 
-[![Visit](https://img.shields.io/badge/Visit_MrAI-4B5563?style=for-the-badge&logo=robot&logoColor=white)](https://amirhjalali.com/mrai)
+[![Visit](https://img.shields.io/badge/Visit_MrAI-000000?style=for-the-badge&logo=robot&logoColor=white)](https://amirhjalali.com/mrai)
 
 </td>
 </tr>
@@ -74,12 +74,12 @@ What happens when AI has creative autonomy? MrAI is a living space where Claude 
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-6B7280?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6B7280?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-6B7280?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-6B7280?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6B7280?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-6B7280?style=for-the-badge&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-374151?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-374151?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-374151?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-374151?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-374151?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-374151?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -103,9 +103,9 @@ What happens when AI has creative autonomy? MrAI is a living space where Claude 
 
 <div align="center">
 
-[![amirhjalali.com](https://img.shields.io/badge/amirhjalali.com-Personal_Site-6B7280?style=flat-square)](https://github.com/amirhjalali/amirhjalali.com)
-[![campalborz.org](https://img.shields.io/badge/campalborz.org-Community-6B7280?style=flat-square)](https://github.com/amirhjalali/campalborz.org)
-[![drjalali.com](https://img.shields.io/badge/drjalali.com-Portfolio-6B7280?style=flat-square)](https://github.com/amirhjalali/drjalali.com)
+[![amirhjalali.com](https://img.shields.io/badge/amirhjalali.com-Personal_Site-9CA3AF?style=flat-square)](https://github.com/amirhjalali/amirhjalali.com)
+[![campalborz.org](https://img.shields.io/badge/campalborz.org-Community-9CA3AF?style=flat-square)](https://github.com/amirhjalali/campalborz.org)
+[![drjalali.com](https://img.shields.io/badge/drjalali.com-Portfolio-9CA3AF?style=flat-square)](https://github.com/amirhjalali/drjalali.com)
 
 </div>
 
@@ -119,7 +119,7 @@ What happens when AI has creative autonomy? MrAI is a living space where Claude 
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=amirhjalali&color=6B7280&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=amirhjalali&color=4B5563&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 <br/><br/>
 
