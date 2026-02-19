@@ -1,128 +1,61 @@
-<div align="center">
+# Hi, I'm Amir
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Amir+Jalali;Building+AI+tools+that+improve+how+people+think." alt="Typing SVG" />
+**New York** | **Co-Founder & CPO at [Gabooja](https://gabooja.com)** | **14 years in data, now all-in on AI**
 
-<br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-`14+ years` in data engineering, business intelligence, and AI strategy
+> Building AI tools that make people think better, not less. Obsessed with the intersection of LLMs and human discourse.
 
-**Co-Founder & CPO** at [Gabooja](https://gabooja.com) · New York
+## Projects
 
-<br/>
+- **[Argumend](https://www.argumend.org)** - Map every argument, weigh the evidence, know where you stand. AI-powered analysis of contentious topics
+- **[MrAI](https://amirhjalali.com/mrai)** - An experiment in AI agency — Claude sets and completes 10 daily tasks with full creative autonomy
+- **[ChatNVC](https://github.com/amirhjalali/chatnvc)** - Nonviolent communication practice powered by AI
+- **[radRealty](https://github.com/amirhjalali/radRealty)** - Real estate tools built with TypeScript
 
-[![Website](https://img.shields.io/badge/amirhjalali.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amirhjalali.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhjalali)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhjalali@gmail.com)
+### Gabooja — Creator-to-commerce platform
 
-</div>
+Turn ideas into physical products. No inventory, no upfront costs, global shipping.
 
----
+- **[Creator Studio](https://github.com/Gabooja/creator-studio)** - TypeScript workspace for content creators to design and launch products
+- **[Client App](https://github.com/Gabooja/gabooja-client)** - React frontend powering the platform UX
+- **[API](https://github.com/Gabooja/gabooja-api)** - PHP backend handling business logic, data flow, and integrations
+- **[Agents](https://github.com/Gabooja/gabooja-agents)** - AI agents for automating platform operations
+- **[Knowledge Base](https://github.com/Gabooja/gabooja-knowledge-base)** - Documentation and internal tooling
+- **[Website](https://github.com/Gabooja/gabooja-website)** - Platform marketing and landing pages
 
-## ⚡ Featured Work
+### Other Sites
 
-<table>
-<tr>
-<td width="50%">
+- **[amirhjalali.com](https://amirhjalali.com)** - Personal site, blog, and project hub
+- **[campalborz.org](https://campalborz.org)** - Community site
+- **[drjalali.com](https://drjalali.com)** - Portfolio site
+- **[amelielolie.com](https://github.com/amirhjalali/amelielolie.com)** - Personal project
 
-### 🧠 Argumend
-**AI for balanced perspectives**
+## What I'm Doing
 
-LLM-powered analysis of contentious topics. Surfaces multiple viewpoints so users understand the full landscape before forming opinions.
+- **Building Gabooja** - Leading product and technical architecture for creator-to-commerce
+- **Exploring AI and discourse** - Can LLMs help people argue better, not just louder?
+- **Writing** - Sharing thoughts on AI strategy at [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts)
+- **Shipping tools** - Full apps in days using AI-native development workflows
 
-> *Not telling people what to think — ensuring they've considered what others think.*
+## GitHub Activity
 
-[![Visit](https://img.shields.io/badge/Visit_Argumend-181717?style=for-the-badge&logo=globe&logoColor=white)](https://www.argumend.org)
+![GitHub Contribution Graph](https://ghchart.rshah.org/amirhjalali)
 
-</td>
-<td width="50%">
+## Connect
 
-### 🤖 MrAI
-**An experiment in AI agency**
-
-What happens when AI has creative autonomy? MrAI is a living space where Claude sets and completes 10 daily tasks — writing reflections, building experiments, and documenting everything transparently.
-
-> *Exploring what it means for AI to inhabit a creative space with genuine autonomy.*
-
-[![Visit](https://img.shields.io/badge/Visit_MrAI-000000?style=for-the-badge&logo=robot&logoColor=white)](https://amirhjalali.com/mrai)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Gabooja Ecosystem
-
-<div align="center">
-
-*Leading product strategy and technical architecture as Co-Founder & CPO*
-
-</div>
-
-| | Component | Description |
-|:---:|-----------|-------------|
-| 🎨 | [Creator Studio](https://github.com/Gabooja/creator-studio) | TypeScript workspace for content creators |
-| 💻 | [Client App](https://github.com/Gabooja/gabooja-client) | React frontend powering the UX |
-| ⚙️ | [API](https://github.com/Gabooja/gabooja-api) | PHP backend — secure, scalable infrastructure |
-| 🌐 | [Website](https://github.com/Gabooja/gabooja-website) | Platform marketing & landing pages |
-| 📊 | [Creator Launchpad](https://github.com/amirhjalali/gaboojacreatorlaunchpad) | Analytics for identifying high-potential creators |
+[![Twitter](https://img.shields.io/badge/-@amirhjalali-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amirhjalali)
+[![LinkedIn](https://img.shields.io/badge/-Amir_Jalali-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhjalali)
+[![Website](https://img.shields.io/badge/-amirhjalali.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://amirhjalali.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amirhjalali)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amirhjalali@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-374151?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-374151?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-374151?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-374151?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-374151?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-374151?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-**Domains:** `LLMs` · `Data Engineering` · `Business Intelligence` · `API Architecture`
-
-**Focus:** `AI Strategy` · `Prompt Engineering` · `Generative AI Applications`
-
----
-
-## 🎯 What I'm Exploring
-
-| Domain | Question |
-|:------:|----------|
-| 💬 | Can AI help people argue *better*, not just louder? |
-| 🎨 | What infrastructure do creators actually need? |
-| 🤖 | How do we move beyond chatbots to embedded intelligence? |
-
----
-
-## 🌐 Other Projects
-
-<div align="center">
-
-[![amirhjalali.com](https://img.shields.io/badge/amirhjalali.com-Personal_Site-9CA3AF?style=flat-square)](https://github.com/amirhjalali/amirhjalali.com)
-[![campalborz.org](https://img.shields.io/badge/campalborz.org-Community-9CA3AF?style=flat-square)](https://github.com/amirhjalali/campalborz.org)
-[![drjalali.com](https://img.shields.io/badge/drjalali.com-Portfolio-9CA3AF?style=flat-square)](https://github.com/amirhjalali/drjalali.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭
-
-*"The goal of AI shouldn't be to replace human thinking — it should be to make human thinking better."*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=amirhjalali&color=4B5563&style=flat-square&label=Profile+Views" alt="Profile views" />
-
-<br/><br/>
-
-**Open to conversations about AI strategy and implementation.**
-
-</div>
+> "The goal of AI shouldn't be to replace human thinking — it should be to make human thinking better."
