@@ -1,6 +1,8 @@
-# Hi, I'm Amir
+# Amir Jalali
 
-**New York** | **Co-Founder & CPO at [Gabooja](https://gabooja.com)** | **14 years in data, now all-in on AI**
+**Building AI that makes people think better, not less.**
+
+Co-Founder & CPO at [Gabooja](https://gabooja.com) · New York · 14 years in data, now all-in on AI
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -10,13 +12,10 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-> Building AI tools that make people think better, not less. Obsessed with the intersection of LLMs and human discourse.
-
 ## Projects
 
 - **[Argumend](https://www.argumend.org)** - Map every argument, weigh the evidence, know where you stand. AI-powered analysis of contentious topics
 - **[MrAI](https://amirhjalali.com/mrai)** - An experiment in AI agency — Claude sets and completes 10 daily tasks with full creative autonomy
-- **[ChatNVC](https://github.com/amirhjalali/chatnvc)** - Nonviolent communication practice powered by AI
 - **[radRealty](https://github.com/amirhjalali/radRealty)** - Real estate tools built with TypeScript
 
 ### Gabooja — Creator-to-commerce platform
