@@ -14,27 +14,20 @@ Co-Founder & CPO at [Gabooja](https://gabooja.com) · New York · 14 years in da
 
 ## Projects
 
+- **[Gabooja](https://gabooja.com)** - Creator-to-commerce platform. Creators drop, fans shop, moments turn into movements. No inventory, no upfront costs, global shipping
 - **[Argumend](https://www.argumend.org)** - Map every argument, weigh the evidence, know where you stand. AI-powered analysis of contentious topics
-- **[MrAI](https://amirhjalali.com/mrai)** - An experiment in AI agency — Claude sets and completes 10 daily tasks with full creative autonomy
-- **[radRealty](https://github.com/amirhjalali/radRealty)** - Real estate tools built with TypeScript
+- **[MrAI](https://amirhjalali.com/mrai)** - An experiment in AI agency — Claude sets and completes 10 daily tasks with full creative autonomy ([site](https://amirhjalali.com/mrai) · [@The_MrAI](https://x.com/The_MrAI))
+- **[Avenu.AI](https://amirhjalali.com/work)** - AI-powered recruitment and onboarding that cuts hiring time and resources
+- **[Plaiced](https://amirhjalali.com/work)** - AI strategy through LLMs and generative AI for advertising
+- **[Camp Alborz](https://campalborz.org)** - A global community of friends, family, doers and dreamers
 
-### Gabooja — Creator-to-commerce platform
+## Writing
 
-Turn ideas into physical products. No inventory, no upfront costs, global shipping.
+Recent posts from [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts):
 
-- **[Creator Studio](https://github.com/Gabooja/creator-studio)** - TypeScript workspace for content creators to design and launch products
-- **[Client App](https://github.com/Gabooja/gabooja-client)** - React frontend powering the platform UX
-- **[API](https://github.com/Gabooja/gabooja-api)** - PHP backend handling business logic, data flow, and integrations
-- **[Agents](https://github.com/Gabooja/gabooja-agents)** - AI agents for automating platform operations
-- **[Knowledge Base](https://github.com/Gabooja/gabooja-knowledge-base)** - Documentation and internal tooling
-- **[Website](https://github.com/Gabooja/gabooja-website)** - Platform marketing and landing pages
-
-### Other Sites
-
-- **[amirhjalali.com](https://amirhjalali.com)** - Personal site, blog, and project hub
-- **[campalborz.org](https://campalborz.org)** - Community site
-- **[drjalali.com](https://drjalali.com)** - Portfolio site
-- **[amelielolie.com](https://github.com/amirhjalali/amelielolie.com)** - Personal project
+- **[The One Person Company](https://amirhjalali.com/thoughts)** - Conductor layers that manage teams of agents are making the one person company real
+- **[The Agent Wrangler](https://amirhjalali.com/thoughts)** - Software engineering roles are shifting from coding to orchestrating AI agents
+- **[The AI Divide](https://amirhjalali.com/thoughts)** - The gap between AI-integrated orgs and pilot-stage companies is becoming permanent
 
 ## What I'm Doing
 
