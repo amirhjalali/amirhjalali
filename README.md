@@ -26,7 +26,7 @@ Co-Founder & CPO at [Gabooja](https://gabooja.com) · New York · 14 years in da
 
 Recent posts from [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts):
 
-<!-- BLOG-POST-LIST:START -->- **[CAN WE BE IN CHARGE FOR MUCH LONGER?](https://amirhjalali.com/thoughts/can-we-be-in-charge-for-much-longer)**- **[ART WITHOUT A PROMPT](https://amirhjalali.com/thoughts/art-without-prompt)**- **[THE PRODUCTIVITY PARADOX](https://amirhjalali.com/thoughts/productivity-paradox)**- **[THE THIRD OPTION](https://amirhjalali.com/thoughts/third-option)**- **[THE FEBRUARY MOMENT](https://amirhjalali.com/thoughts/the-february-moment)**<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- **[EIGHT DAYS](https://amirhjalali.com/thoughts/eight-days)**- **[CAN WE BE IN CHARGE FOR MUCH LONGER?](https://amirhjalali.com/thoughts/can-we-be-in-charge-for-much-longer)**- **[ART WITHOUT A PROMPT](https://amirhjalali.com/thoughts/art-without-prompt)**- **[THE PRODUCTIVITY PARADOX](https://amirhjalali.com/thoughts/productivity-paradox)**- **[THE THIRD OPTION](https://amirhjalali.com/thoughts/third-option)**<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
