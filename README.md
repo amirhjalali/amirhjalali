@@ -32,6 +32,7 @@ Recent posts from [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts):
 - **[Art Without a Prompt](https://amirhjalali.com/thoughts/art-without-prompt)**
 - **[The Productivity Paradox](https://amirhjalali.com/thoughts/productivity-paradox)**
 - **[The Third Option](https://amirhjalali.com/thoughts/third-option)**
+
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
