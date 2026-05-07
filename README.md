@@ -4,7 +4,7 @@
   <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:555555&height=180&section=header&text=Amir%20Jalali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20that%20makes%20people%20think%20better%2C%20not%20less.&descAlignY=55&descSize=16&descColor=ffffff" width="100%" />
 </picture>
 
-Co-Founder & CPO at [Gabooja](https://gabooja.com) · New York · 14 years in data, now all-in on AI
+Chief AI Officer at [Access Training UK](https://www.accesstraininguk.co.uk/) · Co-Founder & CPO at [Gabooja](https://gabooja.com) · New York
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=white)
@@ -26,7 +26,13 @@ Co-Founder & CPO at [Gabooja](https://gabooja.com) · New York · 14 years in da
 
 Recent posts from [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts):
 
-<!-- BLOG-POST-LIST:START -->- **[EIGHT DAYS](https://amirhjalali.com/thoughts/eight-days)**- **[CAN WE BE IN CHARGE FOR MUCH LONGER?](https://amirhjalali.com/thoughts/can-we-be-in-charge-for-much-longer)**- **[ART WITHOUT A PROMPT](https://amirhjalali.com/thoughts/art-without-prompt)**- **[THE PRODUCTIVITY PARADOX](https://amirhjalali.com/thoughts/productivity-paradox)**- **[THE THIRD OPTION](https://amirhjalali.com/thoughts/third-option)**<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- **[Eight Days](https://amirhjalali.com/thoughts/eight-days)**
+- **[Can We Be in Charge for Much Longer?](https://amirhjalali.com/thoughts/can-we-be-in-charge-for-much-longer)**
+- **[Art Without a Prompt](https://amirhjalali.com/thoughts/art-without-prompt)**
+- **[The Productivity Paradox](https://amirhjalali.com/thoughts/productivity-paradox)**
+- **[The Third Option](https://amirhjalali.com/thoughts/third-option)**
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 

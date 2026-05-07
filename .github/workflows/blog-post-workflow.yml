@@ -17,7 +17,16 @@ jobs:
         with:
           feed_list: "https://amirhjalali.com/feed.xml"
           max_post_count: 5
-          template: "- **[$title]($url)**"
+          template: "- **[$title]($url)**$newline"
+          tag_post_pre_newline: true
+          item_exec: |
+            const smallWords = new Set(['a', 'an', 'and', 'as', 'at', 'but', 'by', 'for', 'in', 'of', 'on', 'or', 'the', 'to', 'vs', 'with']);
+            const words = post.title.toLowerCase().split(' ');
+            post.title = words.map((word, index) => {
+              const key = word.replace(/^[^a-z0-9]+|[^a-z0-9]+$/g, '');
+              if (index > 0 && index < words.length - 1 && smallWords.has(key)) return word;
+              return word.replace(/[a-z]/, char => char.toUpperCase());
+            }).join(' ');
           commit_message: "Update blog posts in README"
           committer_username: "blog-post-bot"
           committer_email: "actions@github.com"
