@@ -27,11 +27,11 @@ Chief AI Officer at [Access Training UK](https://www.accesstraininguk.co.uk/) ·
 Recent posts from [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts):
 
 <!-- BLOG-POST-LIST:START -->
+- **[The Interim](https://amirhjalali.com/thoughts/the-interim)**
 - **[Spend Tokens Once](https://amirhjalali.com/thoughts/spend-tokens-once)**
 - **[The Skill Layer](https://amirhjalali.com/thoughts/the-skill-layer)**
 - **[The Ritual Is the Architecture](https://amirhjalali.com/thoughts/the-ritual-is-the-architecture)**
 - **[Eight Days](https://amirhjalali.com/thoughts/eight-days)**
-- **[Can We Be in Charge for Much Longer?](https://amirhjalali.com/thoughts/can-we-be-in-charge-for-much-longer)**
 
 <!-- BLOG-POST-LIST:END -->
 
