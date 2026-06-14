@@ -27,11 +27,11 @@ Chief AI Officer at [Access Training UK](https://www.accesstraininguk.co.uk/) ·
 Recent posts from [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts):
 
 <!-- BLOG-POST-LIST:START -->
+- **[A Fence Across the Curve](https://amirhjalali.com/thoughts/a-fence-across-the-curve)**
 - **[The Real Fable](https://amirhjalali.com/thoughts/the-real-fable)**
 - **[Terminal Velocity](https://amirhjalali.com/thoughts/terminal-velocity)**
 - **[The Interim](https://amirhjalali.com/thoughts/the-interim)**
 - **[Spend Tokens Once](https://amirhjalali.com/thoughts/spend-tokens-once)**
-- **[The Skill Layer](https://amirhjalali.com/thoughts/the-skill-layer)**
 
 <!-- BLOG-POST-LIST:END -->
 
