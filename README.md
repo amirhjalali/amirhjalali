@@ -27,11 +27,11 @@ Chief AI Officer at [Access Training UK](https://www.accesstraininguk.co.uk/) ·
 Recent posts from [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts):
 
 <!-- BLOG-POST-LIST:START -->
+- **[A Thousand Words](https://amirhjalali.com/thoughts/a-thousand-words)**
 - **[The Anatomy of a Modern Influence Campaign](https://amirhjalali.com/thoughts/stop-trying-to-make-fetch-happen)**
 - **[Daycare for Adults](https://amirhjalali.com/thoughts/daycare-for-adults)**
 - **[The Exponential Continues](https://amirhjalali.com/thoughts/the-exponential-continues)**
 - **[The Surgeon Is the Patient](https://amirhjalali.com/thoughts/the-surgeon-is-the-patient)**
-- **[From Wranglers to Loops](https://amirhjalali.com/thoughts/from-wranglers-to-loops)**
 
 <!-- BLOG-POST-LIST:END -->
 
