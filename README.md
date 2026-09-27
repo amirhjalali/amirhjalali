@@ -27,11 +27,11 @@ Chief AI Officer at [Access Training UK](https://www.accesstraininguk.co.uk/) ·
 Recent posts from [amirhjalali.com/thoughts](https://amirhjalali.com/thoughts):
 
 <!-- BLOG-POST-LIST:START -->
+- **[Taste Is a Feeling](https://amirhjalali.com/thoughts/taste-is-a-feeling)**
 - **[The Brief Age of Biological Intelligence](https://amirhjalali.com/thoughts/the-brief-age-of-biological-intelligence)**
 - **[A Thousand Words](https://amirhjalali.com/thoughts/a-thousand-words)**
 - **[The Anatomy of a Modern Influence Campaign](https://amirhjalali.com/thoughts/stop-trying-to-make-fetch-happen)**
 - **[Daycare for Adults](https://amirhjalali.com/thoughts/daycare-for-adults)**
-- **[The Exponential Continues](https://amirhjalali.com/thoughts/the-exponential-continues)**
 
 <!-- BLOG-POST-LIST:END -->
 
